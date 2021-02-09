@@ -21,7 +21,7 @@ This plugin adds locations of **available countries** (see list below) to the **
 Additionally it adds the States to the **Shipping Zones** (Cities are not compatible with this area).
 
 # Supported Countries #
-* MM Myanmar
+* 🇲🇲 Myanmar
 * [Main Source for Other Country](https://github.com/chitezh/woocommerce_states_places)
 
 # Plugin Demo Site #
