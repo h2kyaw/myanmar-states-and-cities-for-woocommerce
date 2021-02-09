@@ -65,7 +65,7 @@ If you want to see the plugin in action, follow the steps below:
 
 == Screenshots ==
 1. In this screenshot you can see the plugin in action.
-
+![Screenshot](https://github.com/h2kyaw/myanmar-states-and-cities-for-woocommerce/blob/main/assets/screenshot.gif?raw=true)
 
 == Additional Setting ==
 1. Go to Woocommerce Dashboard > Settings > In General options
