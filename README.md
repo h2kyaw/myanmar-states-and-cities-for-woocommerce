@@ -22,7 +22,7 @@ Additionally it adds the States to the **Shipping Zones** (Cities are not compat
 
 # Supported Countries #
 * 🇲🇲 Myanmar
-* [Main Source for Other Country](https://github.com/chitezh/woocommerce_states_places)
+[Main Source for Other Country](https://github.com/chitezh/woocommerce_states_places)
 
 # Plugin Demo Site #
 
