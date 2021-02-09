@@ -1,4 +1,4 @@
-=== Myanmar States, Cities, and Places for WooCommerce ===\
+# Myanmar States, Cities, and Places for WooCommerce #
 Main Source: [States, Cities, and Places for WooCommerce](https://github.com/chitezh/woocommerce_states_places)\
 Contributors: chitezh, yordansoares, luisurrutiaf, nobnob, joseayram\
 Re-Contributor: h2kyaw\
@@ -14,17 +14,17 @@ License URI: [GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.html)
 
 WordPress plugin that shows dropdowns for Myanmar States and Cities Select for WooCommerce.
 
-== Description ==
+# Description #
 
 This plugin adds locations of **available countries** (see list below) to the **State** and **City** fields of the **WooCommerce** address forms, making the fields filterable to enhance the **user experience**.
 
 Additionally it adds the States to the **Shipping Zones** (Cities are not compatible with this area).
 
-== Supported Countries ==
+# Supported Countries #
 * MM Myanmar
 * [Main Source for Other Country](https://github.com/chitezh/woocommerce_states_places)
 
-== Plugin Demo Site ==
+# Plugin Demo Site #
 
 If you want to see the plugin in action, follow the steps below:
 
@@ -32,14 +32,14 @@ If you want to see the plugin in action, follow the steps below:
 2. Select a **sample product** from the list.
 3. Go to the **Checkout** to interact with available country locations.
 
-== Available languages ==
+# Available languages #
 
 * English (US, Australia, Canada, UK, New Zealand, and South Africa)
 * Spanish (Argentina, Chile, Colombia, Costa Rica, Dominican Republic, Ecuador, Guatemala, Honduras, Mexico, Peru, Puerto Rico, Spain, Uruguay, and Venezuela)
 
-== Installation ==
+# Installation #
 
-= Automatic installation =
+## Automatic installation ##
 
 1. Go to your **Dashboard » Plugins » Add new**
 2. In the search form write **"Myanmar States, Cities, and Places for WooCommerce"**
@@ -47,7 +47,7 @@ If you want to see the plugin in action, follow the steps below:
 4. Finally, click on the **Activate** button
 5. Enjoy the plugin!
 
-= Manual Installation = 
+## Manual Installation ##
 1. Download the plugin from this page clicking on the **Download** button
 2. Go to your **Dashboard » Plugins » Add new**
 3. Now select **Upload Plugin** button
@@ -55,7 +55,7 @@ If you want to see the plugin in action, follow the steps below:
 5. Click on **Install Now** button and the **Activate Plugin**
 6. Enjoy the plugin!
 
-= FTP Installation =
+## FTP Installation ##
 1. Download the plugin from this page clicking on the **Download** button
 2. Decompress the file in your desktop
 3. Run your FTP client software and conect to your WordPress installation
@@ -63,11 +63,12 @@ If you want to see the plugin in action, follow the steps below:
 5. Go to your Dashboard » Plugins » Find the plugin and click on **Activate** option
 6. Enjoy the plugin!
 
-== Screenshots ==
-1. In this screenshot you can see the plugin in action.
+# Screenshots #
+In this screenshot you can see the plugin in action.
 
+![Screenshot](https://github.com/h2kyaw/myanmar-states-and-cities-for-woocommerce/blob/main/assets/screenshot.gif?raw=true)
 
-== Additional Setting ==
+# Additional Setting #
 1. Go to Woocommerce Dashboard > Settings > In General options
 2. **Change Selling location(s)** > Sell to specific countries > Select **Myanmar**.
 3. **Shipping location(s)** > Ship to specific countries only > Select **Myanmar**.
@@ -83,15 +84,18 @@ If you want to see the plugin in action, follow the steps below:
 }
 ```
 
-== Frequently Asked Questions ==
+# Frequently Asked Questions #
 
-= How do I report bugs? =
-Kindly create an issue stating the bug and how you caught it: [Create new issue](https://github.com/chitezh/woocommerce_states_places/issues/new).
+## How do I report bugs? ##
+- Kindly create an issue stating the bug and how you caught it: [Create new issue](https://github.com/h2kyaw/myanmar-states-and-cities-for-woocommerce/issues/new).
 
-= Can I suggest a new place or location? =
-Yes, you can always suggest or request new locations by creating an issue in the [plugin repository](https://github.com/chitezh/woocommerce_states_places/issues/new) in GitHub. Please refer to the [Adding a new country](https://github.com/chitezh/woocommerce_states_places/tree/master/templates) instructions to get more details.
+## Can I suggest a new place or location? ##
+- Yes, you can always suggest or request new locations by creating an issue in the [plugin repository](https://github.com/chitezh/woocommerce_states_places/issues/new) in GitHub.
+- If you want to report Missing place or Other.
+  - For adding another place, Please Select <span style="color:red">**Missing States/Cities**</span> Labels while reporting **Issues**
+  - For Other Bugs, Please Select <span style="color:red">**Bug**</span>, <span style="color:#0075ca">**documentation**</span>, <span style="color:#cfd3d7">**duplicate**</span>, etc.
 
-== Changelog ==
+# Changelog #
 
 **9.0 - February  9, 2021**
 * First release.
