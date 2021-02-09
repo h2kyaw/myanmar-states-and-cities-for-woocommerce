@@ -63,9 +63,8 @@ If you want to see the plugin in action, follow the steps below:
 5. Go to your Dashboard » Plugins » Find the plugin and click on **Activate** option
 6. Enjoy the plugin!
 
-# Screenshots #
-In this screenshot you can see the plugin in action.
-
+## Screenshots ##
+1. In this screenshot you can see the plugin in action.
 ![Screenshot](https://github.com/h2kyaw/myanmar-states-and-cities-for-woocommerce/blob/main/assets/screenshot.gif?raw=true)
 
 # Additional Setting #
